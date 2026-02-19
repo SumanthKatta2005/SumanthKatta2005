@@ -45,3 +45,23 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
+### ⚡ The Moat (Technical Stack)
+
+<div align="left">
+  <p><strong>AI & Automation:</strong> n8n, Agentforce, LLM APIs (OpenAI/Gemini), Runway.</p>
+  <p><strong>Security & Architecture:</strong> Enterprise Security Protocols, Cisco Cyber Security, Chrome Manifest V3, Service Workers.</p>
+  <p><strong>Core Engineering:</strong> Python, JavaScript, React, Supabase, Vercel.</p>
+</div>
+
+<br>
+
+<div align="left" style="display: flex; align-items: center; gap: 12px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,docker,supabase,vercel,postman,figma&theme=dark" />
+  </a>
+  <a href="https://n8n.io" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/45480450?s=48&v=4" width="48" height="48" alt="n8n Automation" style="border-radius: 6px;" />
+  </a>
+</div>
+
+<br>
